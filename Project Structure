@@ -1,0 +1,15 @@
+shopping-cart-app/
+│
+├── backend/
+│   ├── models/Product.js
+│   ├── routes/productRoutes.js
+│   ├── server.js
+│   └── package.json
+│
+├── frontend/
+│   ├── src/App.js
+│   ├── src/components/ProductList.js
+│   ├── src/index.js
+│   └── package.json
+│
+└── README.md
